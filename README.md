@@ -1,10 +1,10 @@
 # **Gungi3D**
 
+[Download](https://www.dropbox.com/s/3e81c7sa4sncvg7/Gungi3D_x86.msi?dl=0)
+
 #### Summary
 
 Gungi3D is a chess variant application written in C++ utilizing OpenGL and GLSL. The game hosts a sophisticated ruleset allowing for a potentially deeper level of strategy than that of chess and its contemporaries. While the game does not feature any hidden information, it is up to the players to keep track of the pieces as their markings may become concealed throughout gameplay. Though the game has a high level complexity, it remains approachable as the enforcement of the rules is handled computationally. This alongside the adjustable AI should allow the game to be a decent challenge for players of all skill levels.
-
-[Download](https://www.dropbox.com/s/3e81c7sa4sncvg7/Gungi3D_x86.msi?dl=0)
 
 #### Features
 
