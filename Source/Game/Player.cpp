@@ -352,7 +352,7 @@ void Player::move()
 		Hand temp_active_hand = *active_hand_ptr;
 		Hand temp_passive_hand = *passive_hand_ptr;
 
-		this->actP(elem, *this->m_turn_ptr, &temp_active_hand, &temp_passive_hand, &temp_board);
+		this->actSim(elem, *this->m_turn_ptr, &temp_active_hand, &temp_passive_hand, &temp_board);
 
 		elem.score = this->minimax(INT_MIN, INT_MAX, *this->m_turn_ptr, &temp_active_hand, &temp_passive_hand, &temp_board);
 		best = std::max(best, elem.score);
@@ -422,7 +422,7 @@ void Player::genRearrangements(Move p_move, std::vector<Move> &p_moves_ref, int 
 	}
 }
 
-void Player::actP(Move p_move, int p_turn, Hand *p_active_hand_ptr, Hand *p_passive_hand_ptr, Board *p_board_ptr)
+void Player::actSim(Move p_move, int p_turn, Hand *p_active_hand_ptr, Hand *p_passive_hand_ptr, Board *p_board_ptr)
 {
 	switch (p_move.func)
 	{
@@ -523,7 +523,7 @@ int Player::minimax(int p_alpha, int p_beta, int p_turn, Hand *p_active_hand_ptr
 		Hand temp_active_hand = *p_active_hand_ptr;
 		Hand temp_passive_hand = *p_passive_hand_ptr;
 
-		this->actP(elem, p_turn + 1, &temp_passive_hand, &temp_active_hand, &temp_board);
+		this->actSim(elem, p_turn + 1, &temp_passive_hand, &temp_active_hand, &temp_board);
 
 		elem.score = sign * this->minimax(p_alpha, p_beta, p_turn + 1, &temp_passive_hand, &temp_active_hand, &temp_board);
 
