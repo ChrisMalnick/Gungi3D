@@ -89,7 +89,7 @@ private:
 
 	void genRearrangements(Move p_move, std::vector<Move> &p_moves_ref, int p_turn, Hand *p_active_hand_ptr, Hand *p_passive_hand_ptr, Board *p_board_ptr);
 
-	void actP(Move p_move, int p_turn, Hand *p_active_hand_ptr, Hand *p_passive_hand_ptr, Board *p_board_ptr);
+	void actSim(Move p_move, int p_turn, Hand *p_active_hand_ptr, Hand *p_passive_hand_ptr, Board *p_board_ptr);
 
 	int minimax(int p_alpha, int p_beta, int p_turn, Hand *p_active_hand_ptr, Hand *p_passive_hand_ptr, Board *p_board_ptr);
 
