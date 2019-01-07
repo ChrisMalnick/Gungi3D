@@ -1,19 +1,19 @@
 /* ============================================================================
  * Project:	Gungi3D
- *
+ * 
  * File:	Depthmap_Cubemap.vs
- *
+ * 
  * Summary:	Outputs the depth values of a fragment from a light's perspective
- *			relative to the faces of a cubemap in clip space
- *
+ *		relative to the faces of a cubemap in clip space
+ * 
  * Origin:	N/A
- *
+ * 
  * Legal:	Unregistered Copyright (C) 2018 Chris Malnick - All Rights Reserved
- *			Unauthorized duplication, reproduction, modification, and/or
- *			distribution is strictly prohibited
- *			All materials, including, but not limited to, code, resources
- *			(models, textures, etc.), documents, etc. are deliberately
- *			unlicensed
+ *		Unauthorized duplication, reproduction, modification, and/or
+ *		distribution is strictly prohibited
+ *		All materials, including, but not limited to, code, resources
+ *		(models, textures, etc.), documents, etc. are deliberately
+ *		unlicensed
  * ============================================================================
  */
 
