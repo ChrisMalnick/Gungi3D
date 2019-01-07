@@ -1,19 +1,19 @@
 /* ============================================================================
  * Project:	Gungi3D
- *
+ * 
  * File:	MRE.cpp
- *
+ * 
  * Summary:	Maintains a logical representation of the game board's spaces with
- *			respect to Mobile Range Expansion
- *
+ *		respect to Mobile Range Expansion
+ * 
  * Origin:	N/A
- *
+ * 
  * Legal:	Unregistered Copyright (C) 2018 Chris Malnick - All Rights Reserved
- *			Unauthorized duplication, reproduction, modification, and/or
- *			distribution is strictly prohibited
- *			All materials, including, but not limited to, code, resources
- *			(models, textures, etc.), documents, etc. are deliberately
- *			unlicensed
+ *		Unauthorized duplication, reproduction, modification, and/or
+ *		distribution is strictly prohibited
+ *		All materials, including, but not limited to, code, resources
+ *		(models, textures, etc.), documents, etc. are deliberately
+ *		unlicensed
  * ============================================================================
  */
 
