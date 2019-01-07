@@ -1,20 +1,20 @@
 /* ============================================================================
  * Project:	Gungi3D
- *
+ * 
  * File:	Picture.h
- *
+ * 
  * Summary:	Extends the model class in order to import, build, and render
- *			a single model with a set of swappable textures that are applied
- *			pseudorandomly
- *
+ *		a single model with a set of swappable textures that are applied
+ *		pseudorandomly
+ * 
  * Origin:	N/A
- *
+ * 
  * Legal:	Unregistered Copyright (C) 2018 Chris Malnick - All Rights Reserved
- *			Unauthorized duplication, reproduction, modification, and/or
- *			distribution is strictly prohibited
- *			All materials, including, but not limited to, code, resources
- *			(models, textures, etc.), documents, etc. are deliberately
- *			unlicensed
+ *		Unauthorized duplication, reproduction, modification, and/or
+ *		distribution is strictly prohibited
+ *		All materials, including, but not limited to, code, resources
+ *		(models, textures, etc.), documents, etc. are deliberately
+ *		unlicensed
  * ============================================================================
  */
 
