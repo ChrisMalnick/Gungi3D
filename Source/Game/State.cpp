@@ -1,19 +1,19 @@
 /* ============================================================================
  * Project:	Gungi3D
- *
+ * 
  * File:	State.cpp
- *
+ * 
  * Summary:	Manages all of the objects that collectively act as the logical
- *			representation of the game as well as handle saving and loading
- *
+ *		representation of the game as well as handle saving and loading
+ * 
  * Origin:	N/A
- *
+ * 
  * Legal:	Unregistered Copyright (C) 2018 Chris Malnick - All Rights Reserved
- *			Unauthorized duplication, reproduction, modification, and/or
- *			distribution is strictly prohibited
- *			All materials, including, but not limited to, code, resources
- *			(models, textures, etc.), documents, etc. are deliberately
- *			unlicensed
+ *		Unauthorized duplication, reproduction, modification, and/or
+ *		distribution is strictly prohibited
+ *		All materials, including, but not limited to, code, resources
+ *		(models, textures, etc.), documents, etc. are deliberately
+ *		unlicensed
  * ============================================================================
  */
 
