@@ -459,14 +459,14 @@ void State::updatePositions()
 }
 
 // For encryption and decryption of game files
-std::string State::XOR(const std::string &line)
+std::string State::XOR(const std::string &p_line_ref)
 {
-	std::string output = line;
+	std::string output = p_line_ref;
 
 	char keys[4] = { 'K', 'E', 'Y', 'S', };
 
-	for (unsigned int i = 0; i < line.size(); ++i)
-		output[i] = line[i] ^ keys[i % (sizeof(keys) / sizeof(char))];
+	for (unsigned int i = 0; i < p_line_ref.size(); ++i)
+		output[i] = p_line_ref[i] ^ keys[i % (sizeof(keys) / sizeof(char))];
 
 	return output;
 }
