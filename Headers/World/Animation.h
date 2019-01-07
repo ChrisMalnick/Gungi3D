@@ -1,20 +1,20 @@
 /* ============================================================================
  * Project:	Gungi3D
- *
+ * 
  * File:	Animation.h
- *
+ * 
  * Summary:	Manages the various properties that determine the position,
- *			orientation, and opacity of a given piece upon interaction relative
- *			to the scene
- *
+ *		orientation, and opacity of a given piece upon interaction relative
+ *		to the scene
+ * 
  * Origin:	N/A
- *
+ * 
  * Legal:	Unregistered Copyright (C) 2018 Chris Malnick - All Rights Reserved
- *			Unauthorized duplication, reproduction, modification, and/or
- *			distribution is strictly prohibited
- *			All materials, including, but not limited to, code, resources
- *			(models, textures, etc.), documents, etc. are deliberately
- *			unlicensed
+ *		Unauthorized duplication, reproduction, modification, and/or
+ *		distribution is strictly prohibited
+ *		All materials, including, but not limited to, code, resources
+ *		(models, textures, etc.), documents, etc. are deliberately
+ *		unlicensed
  * ============================================================================
  */
 
