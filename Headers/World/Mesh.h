@@ -1,19 +1,19 @@
 /* ============================================================================
  * Project:	Gungi3D
- *
+ * 
  * File:	Mesh.h
- *
+ * 
  * Summary:	Builds and renders the individual components of models as separate
- *			sets of vertex, index, and color data
- *
+ *		sets of vertex, index, and color data
+ * 
  * Origin:	N/A
- *
+ * 
  * Legal:	Unregistered Copyright (C) 2018 Chris Malnick - All Rights Reserved
- *			Unauthorized duplication, reproduction, modification, and/or
- *			distribution is strictly prohibited
- *			All materials, including, but not limited to, code, resources
- *			(models, textures, etc.), documents, etc. are deliberately
- *			unlicensed
+ *		Unauthorized duplication, reproduction, modification, and/or
+ *		distribution is strictly prohibited
+ *		All materials, including, but not limited to, code, resources
+ *		(models, textures, etc.), documents, etc. are deliberately
+ *		unlicensed
  * ============================================================================
  */
 
