@@ -1,22 +1,22 @@
 /* ============================================================================
  * Project:	Gungi3D
- *
+ * 
  * File:	CommonItemDialog.h
- *
+ * 
  * Summary:	Creates, handles, and retrieves data from standard Windows based
- *			dialogs
- *
+ *		dialogs
+ * 
  * Origin:	This code is modified from Microsoft's CommonFileDialogApp.cpp -
- *			part of a collection of open source samples on Windows programming
- *			The unmodified source code can be found at the following URL:
- *			https://github.com/Microsoft/Windows-classic-samples/blob/master/Samples/Win7Samples/winui/shell/appplatform/commonfiledialog/CommonFileDialogApp.cpp
- *
+ *		part of a collection of open source samples on Windows programming
+ *		The unmodified source code can be found at the following URL:
+ *		https://github.com/Microsoft/Windows-classic-samples/blob/master/Samples/Win7Samples/winui/shell/appplatform/commonfiledialog/CommonFileDialogApp.cpp
+ * 
  * Legal:	Unregistered Copyright (C) 2018 Chris Malnick - All Rights Reserved
- *			Unauthorized duplication, reproduction, modification, and/or
- *			distribution is strictly prohibited
- *			All materials, including, but not limited to, code, resources
- *			(models, textures, etc.), documents, etc. are deliberately
- *			unlicensed
+ *		Unauthorized duplication, reproduction, modification, and/or
+ *		distribution is strictly prohibited
+ *		All materials, including, but not limited to, code, resources
+ *		(models, textures, etc.), documents, etc. are deliberately
+ *		unlicensed
  * ============================================================================
  */
 
