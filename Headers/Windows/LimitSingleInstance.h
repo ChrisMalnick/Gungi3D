@@ -1,22 +1,22 @@
 /* ============================================================================
  * Project:	Gungi3D
- *
+ * 
  * File:	LimitSingleInstance.h
- *
+ * 
  * Summary:	Limits Windows based operating systems to running one instance of
- *			the application at a time
- *
+ *		the application at a time
+ * 
  * Origin:	This code is modified from Microsoft's Knowledge Base (KB)
- *			article Q243953
- *			The unmodified source code can be found at the following URL:
- *			https://support.microsoft.com/en-us/help/243953
- *
+ *		article Q243953
+ *		The unmodified source code can be found at the following URL:
+ *		https://support.microsoft.com/en-us/help/243953
+ * 
  * Legal:	Unregistered Copyright (C) 2018 Chris Malnick - All Rights Reserved
- *			Unauthorized duplication, reproduction, modification, and/or
- *			distribution is strictly prohibited
- *			All materials, including, but not limited to, code, resources
- *			(models, textures, etc.), documents, etc. are deliberately
- *			unlicensed
+ *		Unauthorized duplication, reproduction, modification, and/or
+ *		distribution is strictly prohibited
+ *		All materials, including, but not limited to, code, resources
+ *		(models, textures, etc.), documents, etc. are deliberately
+ *		unlicensed
  * ============================================================================
  */
 
